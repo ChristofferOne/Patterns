@@ -1,0 +1,16 @@
+{
+    "name": "christofferlundberg/patterns",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChristofferOne",
+            "email": "christofferlundberg.98@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {"Patterns\\": "lib/"}
+    }
+}
